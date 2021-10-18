@@ -1,0 +1,1402 @@
+[
+    {
+        "id": "1",
+        "Name": "Dành cho bạn",
+        "Image": "https://salt.tikicdn.com/cache/w100/ts/upload/6d/56/64/3c4a8a3a7475311d8c6892d9ede8ead7.png",
+        "Products": [
+            {
+                "id": 1,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 2,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 3,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 4,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 5,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 6,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 7,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 8,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 9,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 10,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 11,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 12,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 13,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 14,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 15,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 16,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 17,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 18,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 19,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 20,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 21,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "Name": "Chỉ từ 49k",
+        "Image": "https://salt.tikicdn.com/cache/w100/ts/tikimsp/a8/3c/95/710feabb581b5583b0512f73a94207f2.jpg",
+        "Products": [
+            {
+                "id": 1,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 2,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 3,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 4,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 5,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 6,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 7,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 8,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 9,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 10,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 11,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 12,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 13,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 14,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 15,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 16,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 17,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 18,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 19,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 20,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 21,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "Name": "Sieu ữu dãi",
+        "Image": "https://salt.tikicdn.com/cache/w100/ts/tikimsp/ff/83/a1/ca8bf6e8d4a403bc6da6cbb7970a71db.jpg",
+        "Products": [
+            {
+                "id": 1,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 2,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 3,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 4,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 5,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 6,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 7,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 8,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 9,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 10,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 11,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 12,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 13,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 14,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 15,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 16,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 17,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 18,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 19,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 20,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 21,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "Name": "Deal Sieu Hot",
+        "Image": "https://salt.tikicdn.com/cache/w100/ts/personalish/11/73/ea/570cae3c03f657c59690f463b5c94166.jpg",
+        "Products": [
+            {
+                "id": 1,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 2,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 3,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 4,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 5,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 6,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 7,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 8,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 9,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 10,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 11,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 12,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 13,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 14,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 15,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 16,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 17,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 18,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 19,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 20,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 21,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "Name": "Rẻ Vo Doi",
+        "Image": "https://salt.tikicdn.com/cache/w100/ts/personalish/45/a2/d6/31d37f94e83fc30bf5b8804c4f4b003c.png",
+        "Products": [
+            {
+                "id": 1,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 2,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 3,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 4,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 5,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 6,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 7,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 8,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 9,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 10,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 11,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 12,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 13,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 14,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 15,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 16,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 17,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 18,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 19,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 20,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 21,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "Name": "Di Cho Sieu Sale",
+        "Image": "https://salt.tikicdn.com/cache/w100/ts/category/a6/9f/45/460fdecbbe0f81da09c7da37aa08f680.png",
+        "Products": [
+            {
+                "id": 1,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 2,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 3,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 4,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 5,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 6,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 7,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 8,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 9,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 10,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 11,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 12,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 13,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 14,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 15,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 16,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 17,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 18,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 19,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 20,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 21,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "Name": "Hàng Mới",
+        "Image": "https://salt.tikicdn.com/cache/w100/ts/upload/14/d2/fa/49a9882cea6c62cc2527d297634f345a.png",
+        "Products": [
+            {
+                "id": 1,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 2,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 3,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 4,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 5,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 6,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 7,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 8,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 9,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 10,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 11,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 12,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 13,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 14,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 15,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 16,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 17,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 18,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 19,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 20,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 21,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "Name": "Khong Giới Hạn",
+        "Image": "https://salt.tikicdn.com/cache/w100/ts/upload/3b/b7/5d/161ce01cd4c91ba5495bc44790314016.png",
+        "Products": [
+            {
+                "id": 1,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 2,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 3,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 4,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 5,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 6,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 7,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 8,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 9,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 10,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 11,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 12,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 13,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 14,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 15,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 16,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 17,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 18,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            },
+            {
+                "id": 19,
+                "price": 100.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/aa/a3/9d/0b18f939d4a01a2f59b6b244888a1b6b.PNG",
+                "des": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                "rate": 2,
+                "count": 200
+            },
+            {
+                "id": 20,
+                "price": 200.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/33/54/e7/a30e074023d286f41beca6da3c32f124.PNG",
+                "des": "John Hardy Women's Legends Naga Gold &amp; Silver Dragon Station Chain Bracelet",
+                "rate": 3,
+                "count": 300
+            },
+            {
+                "id": 21,
+                "price": 300.000,
+                "image": "https://salt.tikicdn.com/cache/200x200/media/catalog/product/tmp/e7/67/c9/79567254fa0feaf3f5d292cd1ac6ca86.PNG",
+                "des": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+                "rate": 4,
+                "count": 400
+            }
+        ]
+    }
+]
